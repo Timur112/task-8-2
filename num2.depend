@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607111665 source:d:\task8\num2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
